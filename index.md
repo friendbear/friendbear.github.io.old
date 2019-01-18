@@ -1,30 +1,54 @@
-## Welcome to GitHub Pages
+## Welcome to friendbear Pages
 
-You can use the [editor on GitHub](https://github.com/friendbear/friendbear.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Spec
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Under constraction
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Spec
+├── History
+│   └── OS
+│       └── MS-DOS
+│           └── Macintosh
+│               └── Windows
+│                   ├── Windows10
+│                   ├── Windows2000
+│                   ├── Windows8
+│                   ├── Windows95
+│                   │   └── Linux
+│                   │       ├── LaserLinux
+│                   │       └── TurboLinux
+│                   ├── Windows98
+│                   │   └── Unix
+│                   │       ├── HP-UX
+│                   │       └── Solaris
+│                   ├── WindowsNT
+│                   ├── WindowsServer2008
+│                   ├── WindowsVista
+│                   │   └── Mac
+│                   │       ├── 10.14-Mojave
+│                   │       └── 10.5-SnowLeopard~
+│                   └── WindowsXP
+└── Lang
+    ├── C
+    ├── C#.net
+    ├── C++
+    ├── Go
+    ├── Java
+    │   ├── JDK0.9.2~
+    │   ├── 8
+    │   └── Scala
+    │       ├── ScalaJS
+    │       └── ScalaScript
+    ├── JavaScript
+    ├── PHP
+    ├── Perl
+    ├── Python
+    ├── ShellScript
+    ├── VB
+    └── VC++
+```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -34,4 +58,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can use the [editor on GitHub](https://github.com/friendbear/friendbear.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
